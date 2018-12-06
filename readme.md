@@ -10,4 +10,4 @@ set db name and password in .env file
 
 start console , enter php artisan migrate
 
-enter url http://localhost.site/web/
+enter url http://localhost.site/
